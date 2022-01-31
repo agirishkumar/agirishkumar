@@ -39,7 +39,7 @@ Learning and implementing Data Dtructures and Algorithms with C++
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=agirishkumar&left_color=green&right_color=red))
+![visitors](https://visitor-badge.glitch.me/badge?page_id=agirishkumar&left_color=green&right_color=red)
 
 
 #### Github Stats
