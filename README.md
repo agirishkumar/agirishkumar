@@ -1,9 +1,13 @@
 ## Hi! I'm Adari Girish Kumar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<<<<<<< HEAD
 Trying to learn and build some cool projects & communities.
 
 Learning and implementing Data Dtructures and Algorithms with C++
 
+=======
+Trying to learn and build some cool projects & communities
+>>>>>>> d2bab443b36bb965210260758b85b2709f3e9bcc
 
 :mailbox: Reach me out!
 
