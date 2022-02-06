@@ -2,7 +2,9 @@
 
 Trying to learn and build some cool projects & communities.
 
-Learning and implementing Data Dtructures and Algorithms with C++
+Right now:
+1. Learning and implementing Data Dtructures and Algorithms with C++
+2. Learning Computer Vision
 
 
 :mailbox: Reach me out!
