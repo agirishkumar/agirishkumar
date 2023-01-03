@@ -13,7 +13,7 @@ Right now:
 
  <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @TransUnion
+- 🔭 I’m currently pursuing MS in AI at @Northeastern University Boston
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m trying to figure out how to contribute to open source projects.
 - :green_book: Learning and Implementing Computer Vision with Matlab and Octave
