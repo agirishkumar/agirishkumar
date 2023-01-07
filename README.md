@@ -1,4 +1,4 @@
-## Hi! I'm Adari Girish Kumar 
+## Hi! this is Girish Kumar Adari
 
 Trying to learn and build some cool projects & communities.
 
@@ -18,7 +18,7 @@ Right now:
 - 🤔 I’m trying to figure out how to contribute to open source projects.
 - :green_book: Learning and Implementing Computer Vision with Matlab and Octave
 - 📫 How to reach me: Twitter/Gmail
-- 😄 Pronouns: Girish/Asuran
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play only Valorant. 
 
 #### Languages and Technologies
