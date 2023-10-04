@@ -10,11 +10,7 @@ Trying to learn and build some cool projects & communities.
 
 - 🔭 I’m currently pursuing MS in AI at @Northeastern University Boston
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m trying to figure out how to contribute to open source projects.
-- :green_book: Learning and Implementing Computer Vision with Matlab and Octave
 - 📫 How to reach me: Twitter/Gmail
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play only Valorant. 
 
 #### Languages and Technologies
 
